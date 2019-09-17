@@ -1,0 +1,5 @@
+configuracion.txt
+# si yo tuviera una carpeta que ignorar archivos dentro de una carpeta
+#carpeta/fichero.txt
+#*css  en este caso ignora todos los css
+#/yisus[0-9]+/
